@@ -6,7 +6,7 @@ Création d'une nouvelle animation. L'utilisateur peut stopper l'animation en la
 
 ## Démonstration
 
-Lien vers le projet :
+Lien vers le projet : https://aperbet56.github.io/animation_formes/
 
 ## Projet développé avec
 
